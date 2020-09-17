@@ -1,4 +1,7 @@
-## 3.1 - 3.6 	// Really easy derrivative stuff, you probably have this stuff down.
+# Calc 2 Videos
+## For test 1 focus on 5.5 - 7.1
+
+#### 3.1 - 3.6 	// Really easy derrivative stuff, you probably have this stuff down.
 All Derrivatives: https://www.youtube.com/watch?v=5yfh5cf4-0w
 
 Power Functions: https://www.youtube.com/watch?v=9Yz-RCdS2Tg
@@ -8,7 +11,7 @@ Implicit Differentiation: https://www.youtube.com/watch?v=xbviQHhU1rA
 
 Logarithmic Differentiation: https://www.youtube.com/watch?v=Dp9sgIvaKPk
 
-## 5.2 - 5.4 	// Integral Basics
+#### 5.2 - 5.4 	// Integral Basics
 Fundamental Theorem of calculus:
 	part 1: https://www.youtube.com/watch?v=aeB5BWY0RlE
 	part 2: https://www.youtube.com/watch?v=ns8N1UuXl4w
@@ -16,7 +19,7 @@ Fundamental Theorem of calculus:
 Definite integrals: https://www.youtube.com/watch?v=Gc3QvUB0PkI
 Indefinite integrals: https://www.youtube.com/watch?v=JTFMeSCxgcA
 
-## 5.5 - 7.1	// **Now the hard shit starts, this is what you need too focus for the test**
+#### 5.5 - 7.1	// **Now the hard shit starts, this is what you need too focus for the test**
 
 U-Substitution:
 	Indefinite: https://www.youtube.com/watch?v=IAh00vU3FSY
