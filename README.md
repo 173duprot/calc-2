@@ -42,3 +42,4 @@
 
 ##### Reccomended:
 * [***The abstract of calculus by 3blue1brown***](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+* [***Professor Leonard's complete collection of calc 2 class recordings***](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
