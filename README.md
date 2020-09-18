@@ -42,6 +42,6 @@
 
 ##### Reccomended:
 * [***The abstract of calculus by 3blue1brown***](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-```ddd```
+```This goes over the abstaract of all of calculus in an incredibly intuitive way, highly reccomended if you want too get a better understanding of what calculus is.```
 
 * [***Professor Leonard's complete collection of calc 2 class recordings***](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
