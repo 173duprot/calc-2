@@ -21,8 +21,8 @@ Indefinite integrals: https://www.youtube.com/watch?v=JTFMeSCxgcA
 ### Test 1 - Intigration (Week 2-5)
 
 U-Substitutuion:
-----Indefinite Intigrals: https://www.youtube.com/watch?v=IAh00vU3FSY
-----Definite Intigrals: https://www.youtube.com/watch?v=tM4RWc9ryx0
+* [Indefinite Intigrals: https://www.youtube.com/watch?v=IAh00vU3FSY]
+* [Definite Intigrals: https://www.youtube.com/watch?v=tM4RWc9ryx0]
 
 Integration by Parts: https://www.youtube.com/watch?v=tGu-764KHCk
 
