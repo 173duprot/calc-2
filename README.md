@@ -1,8 +1,8 @@
+<br/>
 ###### This is a collection of Organic Chemistry Tutor videos covering the content of the entire class.
 ###### Using these videos its possible too learn everything you need too know without needing too come too class.
-
+<br/>
 ### Review of the Basics (wk 1)
-
 + Derrivative Basics:
     + [Derrivatives](https://www.youtube.com/watch?v=5yfh5cf4-0w)
     + [Power Functions](https://www.youtube.com/watch?v=9Yz-RCdS2Tg)
