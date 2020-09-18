@@ -1,5 +1,5 @@
 
-### Calc 1 Review (Week 1)
+### Review                  (Week 1) 
 + Basic:
     + [Derrivatives](https://www.youtube.com/watch?v=5yfh5cf4-0w)
     + [Power Functions](https://www.youtube.com/watch?v=9Yz-RCdS2Tg)
@@ -16,7 +16,7 @@
     + [Definite integrals](https://www.youtube.com/watch?v=Gc3QvUB0PkI)
     + [Indefinite integrals](https://www.youtube.com/watch?v=JTFMeSCxgcA)
 
-### Test 1 - Intigration (Week 2-5)
+### Test 1 - Intigration    (Week 2-5) 
 
 * U-Substitutuion:
     * [U-sub Indefinite Intigrals](https://www.youtube.com/watch?v=IAh00vU3FSY)
