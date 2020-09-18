@@ -1,5 +1,3 @@
-*Reccomended:* [***The abstract behind all of calculus***](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-
 ### Review of the Basics (wk 1)
 
 + Derrivative Basics:
@@ -32,3 +30,6 @@
 * Other Tequniques
     * [Integration by Parts](https://www.youtube.com/watch?v=tGu-764KHCk)
     * [***Partial Fraction Decomposition***](https://www.youtube.com/watch?v=BvGKVn-85jM) **<< hard stuff**
+
+
+*Reccomended:* [***The abstract behind all of calculus by 3blue1brown***](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
