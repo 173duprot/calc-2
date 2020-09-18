@@ -1,7 +1,7 @@
 # Calc 2 Videos
 
 <details open>
-<summary>***Calc 1 Review (Week 1)***</summary>
+<summary>Calc 1 Review (Week 1)</summary>
 
 * [Derrivatives](https://www.youtube.com/watch?v=5yfh5cf4-0w)
 
