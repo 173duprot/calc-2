@@ -1,5 +1,4 @@
-### Review
-(week 1)
+### Review of the Basics (wk 1)
 
 + Basic:
     + [Derrivatives](https://www.youtube.com/watch?v=5yfh5cf4-0w)
@@ -17,8 +16,8 @@
     + [Definite integrals](https://www.youtube.com/watch?v=Gc3QvUB0PkI)
     + [Indefinite integrals](https://www.youtube.com/watch?v=JTFMeSCxgcA)
 
-##### (Week 2-5) 
-### Test 1 - Intigration
+
+### Test 1 - Intigration (wk 2-5) 
 
 
 * U-Substitutuion:
