@@ -1,6 +1,5 @@
 ###### This is a collection of Organic Chemistry Tutor videos covering the content of the entire class.
 ###### Using these videos its possible too learn everything you need too know without needing too come too class.
-###### The goal of this collection is too make it as easy as possible too review material, and offer a better alternative too watching class recordings. 
 
 ### Review of the Basics (wk 1)
 
