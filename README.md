@@ -2,18 +2,19 @@
 
 ### Calc 1 Review (Week 1):
 
-Derrivatives: https://www.youtube.com/watch?v=5yfh5cf4-0w
+* Derrivatives: https://www.youtube.com/watch?v=5yfh5cf4-0w
 
-Power Functions: https://www.youtube.com/watch?v=9Yz-RCdS2Tg
-Quotient and Chain Rule: https://youtu.be/lEj3dzj2Doc
+* Power Functions: https://www.youtube.com/watch?v=9Yz-RCdS2Tg
 
-Implicit Differentiation: https://www.youtube.com/watch?v=xbviQHhU1rA
+* Quotient and Chain Rule: https://youtu.be/lEj3dzj2Doc
 
-Logarithmic Differentiation: https://www.youtube.com/watch?v=Dp9sgIvaKPk
+* Implicit Differentiation: https://www.youtube.com/watch?v=xbviQHhU1rA
 
-Fundamental Theorem of calculus:
-* part 1: https://www.youtube.com/watch?v=aeB5BWY0RlE
-* part 2: https://www.youtube.com/watch?v=ns8N1UuXl4w
+* Logarithmic Differentiation: https://www.youtube.com/watch?v=Dp9sgIvaKPk
+
+* Fundamental Theorem of calculus:
+  * part 1: https://www.youtube.com/watch?v=aeB5BWY0RlE
+  * part 2: https://www.youtube.com/watch?v=ns8N1UuXl4w
 
 Definite integrals: https://www.youtube.com/watch?v=Gc3QvUB0PkI
 Indefinite integrals: https://www.youtube.com/watch?v=JTFMeSCxgcA
