@@ -1,4 +1,4 @@
-[The abstract of all of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+[***The abstract behind all of calculus***](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ### Review of the Basics (wk 1)
 
