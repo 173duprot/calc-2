@@ -29,6 +29,6 @@
     * [Basic Trig Integrals](https://www.youtube.com/watch?v=flvhNBoOsiA)
     * [***Trig Substitution***](https://www.youtube.com/watch?v=gJdeJ1CoFnU)
   
-  * Other Tequniques
+* Other Tequniques
     * [Integration by Parts](https://www.youtube.com/watch?v=tGu-764KHCk)
     * [***Partial Fraction Decomposition:***](https://www.youtube.com/watch?v=BvGKVn-85jM)
