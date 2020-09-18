@@ -1,5 +1,6 @@
-##### (Week 1) 
 ### Review
+(week 1)
+
 + Basic:
     + [Derrivatives](https://www.youtube.com/watch?v=5yfh5cf4-0w)
     + [Power Functions](https://www.youtube.com/watch?v=9Yz-RCdS2Tg)
