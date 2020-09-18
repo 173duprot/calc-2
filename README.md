@@ -25,7 +25,8 @@
     * [Indefinite Intigrals](https://www.youtube.com/watch?v=IAh00vU3FSY)
     * [Definite Intigrals](https://www.youtube.com/watch?v=tM4RWc9ryx0)
 
-* [Integration by Parts](https://www.youtube.com/watch?v=tGu-764KHCk)
+* Integration by Parts
+    * [video](https://www.youtube.com/watch?v=tGu-764KHCk)
 
 * Calc Trigonometry
     * [Basic Trig Integrals](https://www.youtube.com/watch?v=flvhNBoOsiA)
