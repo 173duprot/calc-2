@@ -13,8 +13,8 @@
 * [Logarithmic Differentiation](https://www.youtube.com/watch?v=Dp9sgIvaKPk)
 
 * Fundamental Theorem of calculus:
-      * [part 1](https://www.youtube.com/watch?v=aeB5BWY0RlE)
-      * [part 2](https://www.youtube.com/watch?v=ns8N1UuXl4w)
+    * [part 1](https://www.youtube.com/watch?v=aeB5BWY0RlE)
+    * [part 2](https://www.youtube.com/watch?v=ns8N1UuXl4w)
 
 * [Definite integrals](https://www.youtube.com/watch?v=Gc3QvUB0PkI)
 * [Indefinite integrals](https://www.youtube.com/watch?v=JTFMeSCxgcA)
@@ -22,13 +22,13 @@
 ### Test 1 - Intigration (Week 2-5)
 
 * U-Substitutuion:
-      * [Indefinite Intigrals](https://www.youtube.com/watch?v=IAh00vU3FSY)
-      * [Definite Intigrals](https://www.youtube.com/watch?v=tM4RWc9ryx0)
+    * [Indefinite Intigrals](https://www.youtube.com/watch?v=IAh00vU3FSY)
+    * [Definite Intigrals](https://www.youtube.com/watch?v=tM4RWc9ryx0)
 
-* Calc Trigonometry
-      * [Basic Trig Integrals](https://www.youtube.com/watch?v=flvhNBoOsiA)
-      * [***Trig Substitution***](https://www.youtube.com/watch?v=gJdeJ1CoFnU)
+* Trigonometry Manupulations
+    * [Basic Trig Integrals](https://www.youtube.com/watch?v=flvhNBoOsiA)
+    * [***Trig Substitution***](https://www.youtube.com/watch?v=gJdeJ1CoFnU)
   
   * Other Tequniques
-      * [Integration by Parts](https://www.youtube.com/watch?v=tGu-764KHCk)
-      * [***Partial Fraction Decomposition:***](https://www.youtube.com/watch?v=BvGKVn-85jM)
+    * [Integration by Parts](https://www.youtube.com/watch?v=tGu-764KHCk)
+    * [***Partial Fraction Decomposition:***](https://www.youtube.com/watch?v=BvGKVn-85jM)
