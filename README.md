@@ -12,7 +12,7 @@
 
 * [Logarithmic Differentiation](https://www.youtube.com/watch?v=Dp9sgIvaKPk)
 
-* Fundamental Theorem of calculus: [part 1](https://www.youtube.com/watch?v=aeB5BWY0RlE) [part 2](https://www.youtube.com/watch?v=ns8N1UuXl4w)
+* Fundamental Theorem of calculus [part 1](https://www.youtube.com/watch?v=aeB5BWY0RlE) and [part 2](https://www.youtube.com/watch?v=ns8N1UuXl4w)
 
 * [Definite integrals](https://www.youtube.com/watch?v=Gc3QvUB0PkI)
 * [Indefinite integrals](https://www.youtube.com/watch?v=JTFMeSCxgcA)
