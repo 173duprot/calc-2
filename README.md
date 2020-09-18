@@ -26,8 +26,8 @@
 
 * Trigonometry Manupulations
     * [Basic Trig Integrals](https://www.youtube.com/watch?v=flvhNBoOsiA)
-    * [***Trig Substitution***](https://www.youtube.com/watch?v=gJdeJ1CoFnU) << hard stuff
+    * [***Trig Substitution***](https://www.youtube.com/watch?v=gJdeJ1CoFnU) **<< hard stuff**
   
 * Other Tequniques
     * [Integration by Parts](https://www.youtube.com/watch?v=tGu-764KHCk)
-    * [***Partial Fraction Decomposition***](https://www.youtube.com/watch?v=BvGKVn-85jM) << hard stuff
+    * [***Partial Fraction Decomposition***](https://www.youtube.com/watch?v=BvGKVn-85jM) **<< hard stuff**
