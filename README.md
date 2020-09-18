@@ -1,3 +1,6 @@
+###### This is a collection of Organic Chemistry Tutor videos covering the content of the entire class, the goal of this collection is too make it as easy as possible too review material, and offer a better alternative too watching class recordings. 
+###### It should be possible too learn everything you need too know from these videos without ever needing too come too class.
+
 ### Review of the Basics (wk 1)
 
 + Derrivative Basics:
