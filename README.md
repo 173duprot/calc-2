@@ -1,11 +1,11 @@
 ### Review of the Basics (wk 1)
 
-+ Basic:
++ Derrivative Basics:
     + [Derrivatives](https://www.youtube.com/watch?v=5yfh5cf4-0w)
     + [Power Functions](https://www.youtube.com/watch?v=9Yz-RCdS2Tg)
     + [Quotient/Chain Rule](https://youtu.be/lEj3dzj2Doc)
 
-+ Advanced
++ Advanced Differentiation
     + [Implicit Differentiation](https://www.youtube.com/watch?v=xbviQHhU1rA)
     + [Logarithmic Differentiation](https://www.youtube.com/watch?v=Dp9sgIvaKPk)
     + Fundamental Theorem of calculus
