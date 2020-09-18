@@ -17,8 +17,7 @@
     + [Indefinite integrals](https://www.youtube.com/watch?v=JTFMeSCxgcA)
 
 
-### Test 1 - Intigration (wk 2-5) << Upcoming Test
-
+### Test 1 - Intigration (wk 2-5)
 
 * U-Substitutuion:
     * [U-sub Indefinite Intigrals](https://www.youtube.com/watch?v=IAh00vU3FSY)
