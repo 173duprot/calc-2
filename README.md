@@ -1,5 +1,3 @@
-# Calc 2 Videos
-
 <details closed>
 <summary>Calc 1 Review (Week 1)</summary>
 
