@@ -2,9 +2,9 @@
 
 ### Calc 1 Review (Week 1):
 
-* Derrivatives: https://www.youtube.com/watch?v=5yfh5cf4-0w
+* [Derrivatives](https://www.youtube.com/watch?v=5yfh5cf4-0w)
 
-* Power Functions: https://www.youtube.com/watch?v=9Yz-RCdS2Tg
+* [Power Functions](https://www.youtube.com/watch?v=9Yz-RCdS2Tg)
 
 * Quotient and Chain Rule: https://youtu.be/lEj3dzj2Doc
 
