@@ -1,3 +1,5 @@
+[The abstract of all of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
 ### Review of the Basics (wk 1)
 
 + Derrivative Basics:
