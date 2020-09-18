@@ -32,4 +32,4 @@
   
 * Other Tequniques
     * [Integration by Parts](https://www.youtube.com/watch?v=tGu-764KHCk)
-    * [***Partial Fraction Decomposition:***](https://www.youtube.com/watch?v=BvGKVn-85jM)
+    * [***Partial Fraction Decomposition***](https://www.youtube.com/watch?v=BvGKVn-85jM)
