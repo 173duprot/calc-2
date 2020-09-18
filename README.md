@@ -1,6 +1,13 @@
 # Calc 2 Videos
 
-### Calc 1 Review (Week 1):
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details>
+
+<details open>
+<summary>### Calc 1 Review (Week 1):</summary>
 
 * [Derrivatives](https://www.youtube.com/watch?v=5yfh5cf4-0w)
 
@@ -16,6 +23,7 @@
 
 * [Definite integrals](https://www.youtube.com/watch?v=Gc3QvUB0PkI)
 * [Indefinite integrals](https://www.youtube.com/watch?v=JTFMeSCxgcA)
+</details>
 
 ### Test 1 - Intigration (Week 2-5)
 
