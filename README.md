@@ -20,8 +20,8 @@
 ### Test 1 - Intigration (Week 2-5)
 
 * U-Substitutuion:
-    * [Indefinite Intigrals](https://www.youtube.com/watch?v=IAh00vU3FSY)
-    * [Definite Intigrals](https://www.youtube.com/watch?v=tM4RWc9ryx0)
+    * [U-sub Indefinite Intigrals](https://www.youtube.com/watch?v=IAh00vU3FSY)
+    * [U-sub Definite Intigrals](https://www.youtube.com/watch?v=tM4RWc9ryx0)
 
 * Trigonometry Manupulations
     * [Basic Trig Integrals](https://www.youtube.com/watch?v=flvhNBoOsiA)
