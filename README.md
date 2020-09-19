@@ -40,7 +40,7 @@
     * [***Improper Intergrals***](https://www.youtube.com/watch?v=d_CnAKmQOKE) **<< Really hard stuff**
 
 * Applications:
-    * [***Area Between Curves***](https://www.youtube.com/watch?v=ltxdcegn8xc) **<< Really hard stuff**
+    * [***Area Between Curves***](https://www.youtube.com/watch?v=ltxdcegn8xc) **<< hard stuff**
 
 
 <br/>
