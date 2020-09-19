@@ -37,9 +37,11 @@
 * Other Tequniques
     * [Integration by Parts](https://www.youtube.com/watch?v=tGu-764KHCk)
     * [***Partial Fraction Decomposition***](https://www.youtube.com/watch?v=BvGKVn-85jM) **<< hard stuff**
+    * [***Improper Intergrals***](https://www.youtube.com/watch?v=d_CnAKmQOKE) **<< Really hard stuff**
 
-* [***Area Between Curves***](https://www.youtube.com/watch?v=ltxdcegn8xc) **<< hard stuff**
-* [***Improper Intergrals***](https://www.youtube.com/watch?v=d_CnAKmQOKE) **<< Really hard stuff**
+* Applications:
+    * [***Area Between Curves***](https://www.youtube.com/watch?v=ltxdcegn8xc) **<< hard stuff**
+
 
 <br/>
 
