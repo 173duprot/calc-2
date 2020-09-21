@@ -51,3 +51,5 @@
 
 * [***Professor Leonard's calc 2 class recordings***](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
     * ``This is a complete calc 2 class recorded and uploaded by a professor. While each video is less concise than OCT, these classes delve much deeper into each subject. If your having trouble with some very specific math problems, and OCT isn't cutting it, these videos are a`definant go too.``
+    
+    ![formula](https://render.githubusercontent.com/render/math?math=e^{i%20\pi}%20=%20-1)
