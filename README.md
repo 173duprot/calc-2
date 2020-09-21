@@ -39,7 +39,7 @@
     * [***Partial Fraction Decomposition***](https://www.youtube.com/watch?v=BvGKVn-85jM) **<< hard stuff**
     * [***Improper Intergrals***](https://www.youtube.com/watch?v=d_CnAKmQOKE) **<< Really hard stuff**
     
-* Wrapping it all up
+* **Wrapping it all up**
     * [How too decide what intigration technique too use](https://www.youtube.com/watch?v=M5MaGUO0JDs)
     
 
