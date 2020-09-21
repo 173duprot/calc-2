@@ -41,6 +41,7 @@
     
 * Wrapping it all up
     * [How too decide what intigration technique too use](https://www.youtube.com/watch?v=M5MaGUO0JDs)
+    
 
 * Applications:
     * [***Area Between Curves***](https://www.youtube.com/watch?v=ltxdcegn8xc) **<< hard stuff**
