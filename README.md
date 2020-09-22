@@ -36,7 +36,7 @@
   
 * Other Tequniques
     * [Integration by Parts](https://www.youtube.com/watch?v=tGu-764KHCk)
-    * [***Partial Fraction Decomposition***](https://www.youtube.com/watch?v=BvGKVn-85jM) **<< hard stuff**
+    * [***Partial Fraction Decomposition***](https://www.youtube.com/watch?v=r5MIraVUVUA) **<< hard stuff**
     * [***Improper Intergrals***](https://www.youtube.com/watch?v=d_CnAKmQOKE) **<< Really hard stuff**
     
 * **Wrapping it all up**
