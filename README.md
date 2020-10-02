@@ -52,15 +52,16 @@
 ### Test 3 - Advanced Intigration Manupulation (wk 7 - ?)
 
 * Volume of 3D shapes
-    * Disk & Washer Method
-        * Disk Method Introduction
-            * [Around y](https://www.youtube.com/watch?v=btGaOTXxXs8)
-            * [Around x](https://www.youtube.com/watch?v=43AS7bPUORc)
-        * Washer Method Introduction
-            * [Around x](https://www.youtube.com/watch?v=vhMl755vR5Q)
-    * Shell Method
-        * [Around x](https://www.youtube.com/watch?v=R-Qu3QWOEiA)
-        * [Around y](https://www.youtube.com/watch?v=6Ozz3J-LRrY)
+    * Introduction
+        * Disk & Washer Method
+            * Disk Method Introduction
+                * [Around y](https://www.youtube.com/watch?v=btGaOTXxXs8)
+                * [Around x](https://www.youtube.com/watch?v=43AS7bPUORc)
+            * Washer Method Introduction
+                * [Around x](https://www.youtube.com/watch?v=vhMl755vR5Q)
+        * Shell Method
+            * [Around x](https://www.youtube.com/watch?v=R-Qu3QWOEiA)
+            * [Around y](https://www.youtube.com/watch?v=6Ozz3J-LRrY)
     * ***Disc/Washer Method vs. Shell Method***
         * [***blackpenredpen video, HIGHLY RECCOMENDED***](https://www.youtube.com/watch?v=ydyXf01WNYA) **<< sums up everything**
     
