@@ -49,6 +49,23 @@
 
 <br/>
 
+### Test 3 - Advanced Intigration Manupulation (wk 7 - ?)
+
+* Volume of 3D shapes
+    * Disk & Washer Method
+        * Disk Method Introduction
+            * [Around y](https://www.youtube.com/watch?v=btGaOTXxXs8)
+            * [Around x](https://www.youtube.com/watch?v=43AS7bPUORc)
+        * Washer Method Introduction
+            * [Around x](https://www.youtube.com/watch?v=vhMl755vR5Q)
+    * Shell Method
+        * [Around x](https://www.youtube.com/watch?v=R-Qu3QWOEiA)
+        * [Around y](https://www.youtube.com/watch?v=6Ozz3J-LRrY)
+    * ***Disc/Washer Method vs. Shell Method***
+        * [***blackpenredpen video, HIGHLY RECCOMENDED***](https://www.youtube.com/watch?v=ydyXf01WNYA) **<< sums up everything**
+    
+</br>
+
 ##### Reccomended:
 * [***The abstract of calculus by 3blue1brown***](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
     * ``This goes over the abstaract of all of calculus in an incredibly intuitive way, highly reccomended if you want too get a better understanding of what calculus is.``
