@@ -1,6 +1,6 @@
 <br/>
 
-###### This is a collection of Organic Chemistry Tutor videos covering the content of the entire class.
+###### This is a collection of videos covering the content of the entire class.
 ###### Using these videos its possible too learn everything you need too know without needing too come too class.
 
 <br/>
@@ -49,7 +49,7 @@
 
 <br/>
 
-### Test 3 - Advanced Intigration Manupulation (wk 7 - ?)
+### Test 2 - Advanced Intigration Manupulation (wk 7 - ?)
 
 * Volume of 3D shapes
     * Introduction
