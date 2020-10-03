@@ -67,10 +67,11 @@
         
 * Arc Length
     * [**Finding the Arc Length formula**](https://www.youtube.com/watch?v=pH-Omj-cMok) **<< yes you need too know how to do this in this class**
-    * [Applying the arc length formula](https://youtu.be/DNDAwWIL5FY)
+    * [Arc Length Examples](https://youtu.be/DNDAwWIL5FY)
 
 * Surface Area
     * [**Finding the Surface Area formula**](https://youtu.be/zUzan1Ma9nE) **<< yes you need too know how to do this in this class**
+    * [Surface Area Examples](https://youtu.be/lQM-0Nqs9Pg)
     
 </br>
 
