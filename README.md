@@ -74,6 +74,8 @@
     
 * **Infinite Sequences and Series**
     * [Introduction too Sums & Sequences](https://www.youtube.com/watch?v=-wvF8OQSMx8) **<< Remember: An infinite series is a sequence of partial sums**
+    
+    * [Absolute Convergence, Conditional Convergence, and Divergence](https://www.youtube.com/watch?v=FPK6LO1iiXc)
    
 </br>
 
