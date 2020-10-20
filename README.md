@@ -73,7 +73,7 @@
         * [Surface Area Examples](https://youtu.be/lQM-0Nqs9Pg)
     
 * **Infinite Sequences and Series**
-    * [Introduction too Sums & Sequences]() **<< Remember: An infinite series is a sequence of partial sums**
+    * [Introduction too Sums & Sequences](https://www.youtube.com/watch?v=-wvF8OQSMx8) **<< Remember: An infinite series is a sequence of partial sums**
    
 </br>
 
@@ -81,7 +81,7 @@
 * [***The abstract of calculus by 3blue1brown***](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
     * ``This goes over the abstaract of all of calculus in an incredibly intuitive way, highly reccomended if you want too get a better understanding of what calculus is.``
 
-* [***Professor Leonard's calc 2 class recordings***](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
+* [***Professor Leonard's calc 2 class recordings***](https://www.youtube.com/playlistlist=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
     * ``This is a complete calc 2 class recorded and uploaded by a professor. While each video is less concise than OCT, these classes delve much deeper into each subject. If your having trouble with some very specific math problems, and OCT isn't cutting it, these videos are a`definant go too.``
     
     ![formula](https://render.githubusercontent.com/render/math?math=e^{i%20\pi}%20=%20-1)
