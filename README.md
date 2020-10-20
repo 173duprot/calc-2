@@ -51,8 +51,8 @@
 
 ### Test 2 - Advanced Intigration Manupulation (wk 6 - 10)
 
-* Volume of 3D shapes
-    * Introduction
+* 3D shapes
+    * Volume
         * Disk & Washer Method
             * Disk Method Introduction
                 * [Around y](https://www.youtube.com/watch?v=btGaOTXxXs8)
@@ -62,17 +62,19 @@
         * Shell Method
             * [Around x](https://www.youtube.com/watch?v=R-Qu3QWOEiA)
             * [Around y](https://www.youtube.com/watch?v=6Ozz3J-LRrY)
-    * ***Disc/Washer Method vs. Shell Method***
         * [***blackpenredpen video, HIGHLY RECCOMENDED***](https://www.youtube.com/watch?v=ydyXf01WNYA) **<< sums up everything**
         
-* Arc Length
-    * [**Finding the Arc Length formula**](https://www.youtube.com/watch?v=pH-Omj-cMok) **<< yes you need too know how to do this in this class**
-    * [Arc Length Examples](https://youtu.be/DNDAwWIL5FY)
+    * Arc Length
+        * [**Finding the Arc Length formula**](https://www.youtube.com/watch?v=pH-Omj-cMok) **<< yes you need too know how to do this in this class**
+        * [Arc Length Examples](https://youtu.be/DNDAwWIL5FY)
 
-* Surface Area
-    * [**Finding the Surface Area formula**](https://youtu.be/zUzan1Ma9nE) **<< yes you need too know how to do this in this class**
-    * [Surface Area Examples](https://youtu.be/lQM-0Nqs9Pg)
+    * Surface Area
+        * [**Finding the Surface Area formula**](https://youtu.be/zUzan1Ma9nE) **<< yes you need too know how to do this in this class**
+        * [Surface Area Examples](https://youtu.be/lQM-0Nqs9Pg)
     
+* **Infinite Sequences and Series**
+    * [Introduction too Sums & Sequences]() **<< Remember: An infinite series is a sequence of partial sums**
+   
 </br>
 
 ##### Reccomended:
