@@ -73,6 +73,8 @@
         * [Surface Area Examples](https://youtu.be/lQM-0Nqs9Pg)
     
 * **Infinite Sequences and Series**
+    * Telescoping sums
+        * [Partial fraction decomposition to find sum of telescoping series](https://www.youtube.com/watch?v=qUNGPqCPzMg)
     * [Introduction too Sums & Sequences](https://www.youtube.com/watch?v=-wvF8OQSMx8) **<< Remember: An infinite series is a sequence of partial sums**
     
     * [Absolute Convergence, Conditional Convergence, and Divergence](https://www.youtube.com/watch?v=FPK6LO1iiXc)
