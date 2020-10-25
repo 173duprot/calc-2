@@ -81,12 +81,12 @@
             * [Series](https://youtu.be/wtlt1AU5bEI)
             * [Geometric Series](https://youtu.be/Gs1Qc8XKtqM)
             * [Harmonic Series](https://youtu.be/5ejmgwXVSqQ)
-        * [***Types of convergance - Absolute vs Conditional***](https://www.youtube.com/watch?v=FPK6LO1iiXc)
     * Theroms
         * [**Riemann Series Theorem**](https://youtu.be/6eL_6c8Tpao)
         * [Monotonic Series](https://www.youtube.com/watch?v=tHy3TXmZpF0)
         * [Sandwich theorem](https://youtu.be/WvxKwRcHGHg)
     * Convergance/Divergance tests for SERIES **<- 7 tests too memorize**
+        * [***Types of convergance - Absolute vs Conditional***](https://www.youtube.com/watch?v=FPK6LO1iiXc) **<- Types of Convergance**
         * **(1)** [P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
         * **(2)** [Integral Test](https://youtu.be/JHTS3WMU7aA)
         * Comparison Test
