@@ -94,7 +94,7 @@
         * **(5)** [Alternating Series Test](https://youtu.be/-lD0skTnqFo)
         * **(6)** + **(7)** [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
         * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
-    * [*Absolute Convergence* **vs** *Conditional Convergence* **vs** *Convergence*]
+    * *Absolute Convergence* **vs** *Conditional Convergence* **vs** *Convergence*
         * [Types of convergance](https://www.youtube.com/watch?v=FPK6LO1iiXc)
     * [**Review of Sums & Sequences**](https://www.youtube.com/watch?v=-wvF8OQSMx8)
    
