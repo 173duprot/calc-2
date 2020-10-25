@@ -82,13 +82,13 @@
             * [Geometric Series](https://youtu.be/Gs1Qc8XKtqM)
             * [Harmonic Series](https://youtu.be/5ejmgwXVSqQ)
     * Convergance/Divergance tests for SERIES **<- 7 tests too memorize**
-        * [P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
-        * [Integral Test](https://youtu.be/JHTS3WMU7aA)
-        * Comparison Test
-            * [Comparison Test](https://youtu.be/GBBg3ntsUDI)
-            * [Limit Comparison Test](https://youtu.be/7xhd8kdQFic)
-        * [Alternating Series Test](https://youtu.be/-lD0skTnqFo)
-        * [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
+        * 1 [P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
+        * 2 [Integral Test](https://youtu.be/JHTS3WMU7aA)
+        * 3 Comparison Test
+            * 4 [Comparison Test](https://youtu.be/GBBg3ntsUDI)
+            * 5 [Limit Comparison Test](https://youtu.be/7xhd8kdQFic)
+        * 6 [Alternating Series Test](https://youtu.be/-lD0skTnqFo)
+        * 7 [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
         * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
     * [*Absolute Convergence* **vs** *Conditional Convergence* **vs** *Convergence*]
         * [Intro - Types of convergance](https://www.youtube.com/watch?v=FPK6LO1iiXc)
