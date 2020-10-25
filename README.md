@@ -75,34 +75,34 @@
 * **Infinite Sequences and Series**
     * Introduction                                                               
         * Intro to Sequences
-            * [Intro - Sequence](https://youtu.be/O4MdzWtOJto}
-            * [Intro - Limit of a Sequence](https://youtu.be/Re1Mh60lXFs)
+            * [Sequence](https://youtu.be/O4MdzWtOJto)
+            * [Limit of a Sequence](https://youtu.be/Re1Mh60lXFs)
         * Intro to Series
-            * [Intro - Series](https://youtu.be/wtlt1AU5bEI)
-            * [Intro - Geometric Series](https://youtu.be/Gs1Qc8XKtqM)
-            * [intro - Harmonic Series](https://youtu.be/5ejmgwXVSqQ)
-    * Convergance/Divergance test for SERIES
+            * [Series](https://youtu.be/wtlt1AU5bEI)
+            * [Geometric Series](https://youtu.be/Gs1Qc8XKtqM)
+            * [Harmonic Series](https://youtu.be/5ejmgwXVSqQ)
+    * Convergance/Divergance tests for SERIES **<- 7 tests too memorize**
         * P test
-            * [Intro - P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
+            * [P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
         * Integral Test
-            * [Intro - Integral Test](https://youtu.be/JHTS3WMU7aA)
+            * [Integral Test](https://youtu.be/JHTS3WMU7aA)
         * Comparison Test
-            * [Intro - Comparison Test (p-test)](https://youtu.be/GBBg3ntsUDI)
-            * [Intro - Limit Comparison](https://youtu.be/7xhd8kdQFic)
+            * [Comparison Test (p-test)](https://youtu.be/GBBg3ntsUDI)
+            * [Limit Comparison](https://youtu.be/7xhd8kdQFic)
         * Alternating Series Test
-            * [Intro - Alternating Series Test](https://youtu.be/-lD0skTnqFo)
+            * [Alternating Series Test](https://youtu.be/-lD0skTnqFo)
         * Ratio Test & Root Test
-            * [Intro - Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
+            * [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
         * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
     * *Absolute Convergence* **vs** *Conditional Convergence* **vs** *Convergence*
         * [Intro - Types of convergance](https://www.youtube.com/watch?v=FPK6LO1iiXc)
     * Theroms
         * **Riemann Series Theorem**
-            * [Intro - Riemann Series](https://youtu.be/6eL_6c8Tpao)
+            * [Riemann Series](https://youtu.be/6eL_6c8Tpao)
         * Monotonic Sequences
-            * [Intro - Monotonic Series](https://www.youtube.com/watch?v=tHy3TXmZpF0)
+            * [Monotonic Series](https://www.youtube.com/watch?v=tHy3TXmZpF0)
         * Squeeze Theorem
-            * [Intro - Sandwich theorem](https://youtu.be/WvxKwRcHGHg)
+            * [Sandwich theorem](https://youtu.be/WvxKwRcHGHg)
     * [Review of Sums & Sequences](https://www.youtube.com/watch?v=-wvF8OQSMx8) **<< Remember: An infinite series is a sequence of partial sums**
    
 </br>
