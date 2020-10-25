@@ -74,7 +74,7 @@
     
 * **Infinite Sequences and Series**
     * **If your learning from this resorce, and the awnsers are too short and consise in this list, check out this OCT playlist that goes into more detail**
-        * [Sequences and Series (Organic Chemistry Tutor Playlist)](https://www.youtube.com/playlist?list=PLHYbQ1FB_Tb22d9OtdGsZ_Zn0nQfDAm15}
+        * [Sequences and Series OCT Playlist)](https://www.youtube.com/playlist?list=PLHYbQ1FB_Tb22d9OtdGsZ_Zn0nQfDAm15}
     * **Calc 1** Limits at infinity Review (if you forgot how too do limits)
         * [Basic limits](https://youtu.be/NmLljBAg82o)
         * [Radicals & Fractional Exponents](https://www.youtube.com/watch?v=sjLFl7Z8W_I)
