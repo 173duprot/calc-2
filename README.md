@@ -81,6 +81,8 @@
             * [Series](https://youtu.be/wtlt1AU5bEI)
             * [Geometric Series](https://youtu.be/Gs1Qc8XKtqM)
             * [Harmonic Series](https://youtu.be/5ejmgwXVSqQ)
+     * *Absolute Convergence* **vs** *Conditional Convergence* **vs** *Convergence*
+        * [Types of convergance](https://www.youtube.com/watch?v=FPK6LO1iiXc)
     * Theroms
         * [**Riemann Series Theorem**](https://youtu.be/6eL_6c8Tpao)
         * [Monotonic Series](https://www.youtube.com/watch?v=tHy3TXmZpF0)
@@ -94,8 +96,6 @@
         * **(5)** [Alternating Series Test](https://youtu.be/-lD0skTnqFo)
         * **(6)** + **(7)** [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
         * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
-    * *Absolute Convergence* **vs** *Conditional Convergence* **vs** *Convergence*
-        * [Types of convergance](https://www.youtube.com/watch?v=FPK6LO1iiXc)
     * [**Review of Sums & Sequences**](https://www.youtube.com/watch?v=-wvF8OQSMx8)
    
 </br>
