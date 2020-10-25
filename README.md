@@ -81,7 +81,7 @@
             * [Series](https://youtu.be/wtlt1AU5bEI)
             * [Geometric Series](https://youtu.be/Gs1Qc8XKtqM)
             * [Harmonic Series](https://youtu.be/5ejmgwXVSqQ)
-            * [***Types of convergance - Absolute vs Conditional](https://www.youtube.com/watch?v=FPK6LO1iiXc)
+            * [***Types of convergance - Absolute vs Conditional***](https://www.youtube.com/watch?v=FPK6LO1iiXc)
     * Theroms
         * [**Riemann Series Theorem**](https://youtu.be/6eL_6c8Tpao)
         * [Monotonic Series](https://www.youtube.com/watch?v=tHy3TXmZpF0)
