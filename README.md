@@ -85,15 +85,17 @@
         * [**Riemann Series Theorem**](https://youtu.be/6eL_6c8Tpao)
         * [Monotonic Series](https://www.youtube.com/watch?v=tHy3TXmZpF0)
         * [Sandwich theorem](https://youtu.be/WvxKwRcHGHg)
-    * Convergance/Divergance tests for SERIES **<- 7 tests too memorize**
-        * **Types of Convergance:** [***Absolute vs Conditional***](https://www.youtube.com/watch?v=FPK6LO1iiXc)
-        * **(1)** [P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
-        * **(2)** [Integral Test](https://youtu.be/JHTS3WMU7aA)
-        * Comparison Test
-            * **(3)** [Comparison Test](https://youtu.be/GBBg3ntsUDI)
-            * **(4)** [Limit Comparison Test](https://youtu.be/7xhd8kdQFic)
-        * **(5)** [Alternating Series Test](https://youtu.be/-lD0skTnqFo)
-        * **(6)** + **(7)** [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
+    * Convergance/Divergance
+        * **Types of Convergance**
+            * [***Absolute vs Conditional***](https://www.youtube.com/watch?v=FPK6LO1iiXc)
+        * Divergent tests for SERIES **<- 7 tests too memorize**
+            * **(1)** [P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
+            * **(2)** [Integral Test](https://youtu.be/JHTS3WMU7aA)
+            * Comparison Test
+                * **(3)** [Comparison Test](https://youtu.be/GBBg3ntsUDI)
+                * **(4)** [Limit Comparison Test](https://youtu.be/7xhd8kdQFic)
+            * **(5)** [Alternating Series Test](https://youtu.be/-lD0skTnqFo)
+            * **(6)** + **(7)** [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
     * **Review of Sums & Sequences**
         * [Summary of all the methods](https://www.youtube.com/watch?v=-wvF8OQSMx8)
         * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM) **<- important**
