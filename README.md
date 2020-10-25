@@ -86,13 +86,18 @@
             * [Intro | P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
         * Integral Test
             * [Intro | Integral Test](https://youtu.be/JHTS3WMU7aA)
-         {%   * [Remainder | Integral Test](https://youtu.be/fbSG-cX4FMI)    %}
         * Comparison Test
             * [Intro | Comparison Test (p-test)](https://youtu.be/GBBg3ntsUDI)
             * [Limit Comparison](https://youtu.be/7xhd8kdQFic)
         * Alternating Series Test
             * [Intro | Alternating Series Test](https://youtu.be/-lD0skTnqFo)
-           {%  * [Remainder | Alternating Series](https://youtu.be/uFIqx1Z1gLU)  %}
+        * Ratio Test & Root Test
+            * [Intro | Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
+        * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
+    * *Absolute Convergence* **vs** *Conditional Convergence* **vs** *Convergence*
+        * [Intro | Types of convergance](https://youtu.be/k6AovDCSY8A)
+    * **Riemann Series Theorem**
+        * [Intro | Riemann Series](https://youtu.be/6eL_6c8Tpao)
         * Telescoping sums
             * [Partial fraction decomposition to find sum of telescoping series](https://www.youtube.com/watch?v=qUNGPqCPzMg)
         * Monotonic Sequences
