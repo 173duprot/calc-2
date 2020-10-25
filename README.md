@@ -95,18 +95,15 @@
             * [Intro | Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
         * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
     * *Absolute Convergence* **vs** *Conditional Convergence* **vs** *Convergence*
-        * [Intro | Types of convergance](https://youtu.be/k6AovDCSY8A)
-    * **Riemann Series Theorem**
-        * [Intro | Riemann Series](https://youtu.be/6eL_6c8Tpao)
-        * Telescoping sums
-            * [Partial fraction decomposition to find sum of telescoping series](https://www.youtube.com/watch?v=qUNGPqCPzMg)
+        * [Intro | Types of convergance](https://www.youtube.com/watch?v=FPK6LO1iiXc)
+    * Theroms
+        * **Riemann Series Theorem**
+            * [Intro | Riemann Series](https://youtu.be/6eL_6c8Tpao)
         * Monotonic Sequences
-            * [](https://www.youtube.com/watch?v=tHy3TXmZpF0)
+            * [Intro | Monotonic Series](https://www.youtube.com/watch?v=tHy3TXmZpF0)
         * Squeeze Theorem
-            * [Sandwich theorem](https://youtu.be/WvxKwRcHGHg)
+            * [Intro | Sandwich theorem](https://youtu.be/WvxKwRcHGHg)
     * [Review of Sums & Sequences](https://www.youtube.com/watch?v=-wvF8OQSMx8) **<< Remember: An infinite series is a sequence of partial sums**
-    
-    * [Absolute Convergence, Conditional Convergence, and Divergence](https://www.youtube.com/watch?v=FPK6LO1iiXc)
    
 </br>
 
