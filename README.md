@@ -85,8 +85,8 @@
         * [P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
         * [Integral Test](https://youtu.be/JHTS3WMU7aA)
         * Comparison Test
-            * [Comparison Test (p-test)](https://youtu.be/GBBg3ntsUDI)
-            * [Limit Comparison](https://youtu.be/7xhd8kdQFic)
+            * [Comparison Test](https://youtu.be/GBBg3ntsUDI)
+            * [Limit Comparison Test](https://youtu.be/7xhd8kdQFic)
         * [Alternating Series Test](https://youtu.be/-lD0skTnqFo)
         * [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
     * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
