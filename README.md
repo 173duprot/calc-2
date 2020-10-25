@@ -89,7 +89,7 @@
             * [Limit Comparison Test](https://youtu.be/7xhd8kdQFic)
         * [Alternating Series Test](https://youtu.be/-lD0skTnqFo)
         * [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
-    * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
+        * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
     * [*Absolute Convergence* **vs** *Conditional Convergence* **vs** *Convergence*]
         * [Intro - Types of convergance](https://www.youtube.com/watch?v=FPK6LO1iiXc)
     * Theroms
