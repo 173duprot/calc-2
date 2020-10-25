@@ -91,7 +91,7 @@
         * **(6)** + **(7)** [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
         * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
     * [*Absolute Convergence* **vs** *Conditional Convergence* **vs** *Convergence*]
-        * [Intro - Types of convergance](https://www.youtube.com/watch?v=FPK6LO1iiXc)
+        * [Types of convergance](https://www.youtube.com/watch?v=FPK6LO1iiXc)
     * Theroms
         * **Riemann Series Theorem**
             * [Riemann Series](https://youtu.be/6eL_6c8Tpao)
