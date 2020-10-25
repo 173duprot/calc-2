@@ -86,7 +86,7 @@
         * [Monotonic Series](https://www.youtube.com/watch?v=tHy3TXmZpF0)
         * [Sandwich theorem](https://youtu.be/WvxKwRcHGHg)
     * Convergance/Divergance tests for SERIES **<- 7 tests too memorize**
-        * Types of Convergance** [***Absolute vs Conditional***](https://www.youtube.com/watch?v=FPK6LO1iiXc)
+        * **Types of Convergance** [***Absolute vs Conditional***](https://www.youtube.com/watch?v=FPK6LO1iiXc)
         * **(1)** [P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
         * **(2)** [Integral Test](https://youtu.be/JHTS3WMU7aA)
         * Comparison Test
