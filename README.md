@@ -73,6 +73,12 @@
         * [Surface Area Examples](https://youtu.be/lQM-0Nqs9Pg)
     
 * **Infinite Sequences and Series**
+    * Calc 1 Limits at infinity Review (if you forgot how too do limits)
+        * [Basic limits](https://youtu.be/NmLljBAg82o)
+        * [Radicals & Fractional Exponents](https://www.youtube.com/watch?v=sjLFl7Z8W_I)
+        * [Basic indeterminant forms, L'hospitals' Rule](https://www.youtube.com/watch?v=thEnl_gCjXA)
+        * [Continuity Basics](https://youtu.be/joewRl1CTL8)
+        * [One Sided Limits, Graphs, Continuity, Infinity, Absolute Value, Squeeze Thereom -  Calculus Review](https://www.youtube.com/watch?v=6e4Wtgc43KQ)
     * Introduction                                                               
         * Intro to Sequences
             * [Sequence](https://youtu.be/O4MdzWtOJto)
