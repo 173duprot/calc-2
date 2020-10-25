@@ -94,7 +94,7 @@
             * **(4)** [Limit Comparison Test](https://youtu.be/7xhd8kdQFic)
         * **(5)** [Alternating Series Test](https://youtu.be/-lD0skTnqFo)
         * **(6)** + **(7)** [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
-        * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
+        * **Choosing Which** [**Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
     * [**Review of Sums & Sequences**](https://www.youtube.com/watch?v=-wvF8OQSMx8)
    
 </br>
