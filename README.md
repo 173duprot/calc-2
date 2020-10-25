@@ -73,17 +73,22 @@
         * [Surface Area Examples](https://youtu.be/lQM-0Nqs9Pg)
     
 * **Infinite Sequences and Series**
+    * **If your learning from this resorce, and the awnsers are too short and consise in this list, check out this OCT playlist that goes into more detail**
+        * [Sequences and Series (Organic Chemistry Tutor Playlist)](https://www.youtube.com/playlist?list=PLHYbQ1FB_Tb22d9OtdGsZ_Zn0nQfDAm15}
     * **Calc 1** Limits at infinity Review (if you forgot how too do limits)
         * [Basic limits](https://youtu.be/NmLljBAg82o)
         * [Radicals & Fractional Exponents](https://www.youtube.com/watch?v=sjLFl7Z8W_I)
         * [Basic indeterminant forms, L'hospitals' Rule](https://www.youtube.com/watch?v=thEnl_gCjXA)
     * Introduction                                                               
-        * Intro to Sequences
+        * Sequences
             * [Sequence](https://youtu.be/O4MdzWtOJto)
             * [Limit of a Sequence](https://youtu.be/Re1Mh60lXFs)
-        * Intro to Series
+        * Series
             * [Series](https://youtu.be/wtlt1AU5bEI)
-            * [Geometric Series](https://youtu.be/Gs1Qc8XKtqM)
+            * Geometric Series
+                * [Intro](https://www.youtube.com/watch?v=-5kIBPR2Npk)
+                * [Sum of Infinite Geometric series](https://youtu.be/jxRqRLMliPc)
+                * [review](https://youtu.be/Gs1Qc8XKtqM)
             * [Harmonic Series](https://youtu.be/5ejmgwXVSqQ)
     * Theroms
         * [**Riemann Series Theorem**](https://youtu.be/6eL_6c8Tpao)
