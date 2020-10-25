@@ -73,9 +73,18 @@
         * [Surface Area Examples](https://youtu.be/lQM-0Nqs9Pg)
     
 * **Infinite Sequences and Series**
-    * Telescoping sums
-        * [Partial fraction decomposition to find sum of telescoping series](https://www.youtube.com/watch?v=qUNGPqCPzMg)
-    * [Introduction too Sums & Sequences](https://www.youtube.com/watch?v=-wvF8OQSMx8) **<< Remember: An infinite series is a sequence of partial sums**
+    * Introduction                                                               
+        * Intro too Sequences
+            * [Sequence](https://youtu.be/O4MdzWtOJto}
+            * [Limit of a Sequence](https://youtu.be/Re1Mh60lXFs)
+            * [Limit laws for sequence](https://www.youtube.com/watch?v=tA01sb34xwg)
+        * Telescoping sums
+            * [Partial fraction decomposition to find sum of telescoping series](https://www.youtube.com/watch?v=qUNGPqCPzMg)
+        * Monotonic Sequences
+            * [](https://www.youtube.com/watch?v=tHy3TXmZpF0)
+        * Squeeze Theorem
+            * [Sandwich theorem](https://youtu.be/WvxKwRcHGHg)
+    * [Review of Sums & Sequences](https://www.youtube.com/watch?v=-wvF8OQSMx8) **<< Remember: An infinite series is a sequence of partial sums**
     
     * [Absolute Convergence, Conditional Convergence, and Divergence](https://www.youtube.com/watch?v=FPK6LO1iiXc)
    
