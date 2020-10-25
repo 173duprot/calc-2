@@ -75,7 +75,7 @@
 * **Infinite Sequences and Series**
     * Introduction                                                               
         * Intro to Sequences
-            * [Intro | Sequence](https://youtu.be/O4MdzWtOJto}
+            * [Intro \| Sequence](https://youtu.be/O4MdzWtOJto}
             * [Intro | Limit of a Sequence](https://youtu.be/Re1Mh60lXFs)
         * Intro to Series
             * [Intro | Series](https://youtu.be/wtlt1AU5bEI)
