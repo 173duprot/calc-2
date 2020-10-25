@@ -86,13 +86,13 @@
             * [Intro | P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
         * Integral Test
             * [Intro | Integral Test](https://youtu.be/JHTS3WMU7aA)
-            * [Integral Test Remainder](https://youtu.be/fbSG-cX4FMI)
+         {%   * [Remainder | Integral Test](https://youtu.be/fbSG-cX4FMI)    %}
         * Comparison Test
             * [Intro | Comparison Test (p-test)](https://youtu.be/GBBg3ntsUDI)
             * [Limit Comparison](https://youtu.be/7xhd8kdQFic)
         * Alternating Series Test
             * [Intro | Alternating Series Test](https://youtu.be/-lD0skTnqFo)
-            * []
+           {%  * [Remainder | Alternating Series](https://youtu.be/uFIqx1Z1gLU)  %}
         * Telescoping sums
             * [Partial fraction decomposition to find sum of telescoping series](https://www.youtube.com/watch?v=qUNGPqCPzMg)
         * Monotonic Sequences
