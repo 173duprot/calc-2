@@ -99,7 +99,7 @@
             * [Monotonic Series](https://www.youtube.com/watch?v=tHy3TXmZpF0)
         * Squeeze Theorem
             * [Sandwich theorem](https://youtu.be/WvxKwRcHGHg)
-    * [Review of Sums & Sequences](https://www.youtube.com/watch?v=-wvF8OQSMx8) **<< Remember: An infinite series is a sequence of partial sums**
+    * [**Review of Sums & Sequences**](https://www.youtube.com/watch?v=-wvF8OQSMx8)
    
 </br>
 
