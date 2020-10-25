@@ -88,7 +88,7 @@
     * Convergance/Divergance
         * **Types of Convergance**
             * [***Absolute vs Conditional***](https://www.youtube.com/watch?v=FPK6LO1iiXc)
-        * Divergent tests for SERIES **<- 7 tests too memorize**
+        * Convergance/Divergent **tests** for SERIES **<- 7 tests too memorize**
             * **(1)** [P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
             * **(2)** [Integral Test](https://youtu.be/JHTS3WMU7aA)
             * Comparison Test
