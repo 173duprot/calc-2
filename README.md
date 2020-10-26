@@ -53,7 +53,8 @@
 3D shapes:
 * [Washer & Disk](https://youtu.be/j5WKJGBqmiI)
 * [Shell](https://youtu.be/fE6vmorV-rA)
-* [Length, Surface area](https://youtu.be/DNDAwWIL5FY)
+* [Length](https://youtu.be/DNDAwWIL5FY)
+* [Surface area](https://youtu.be/lQM-0Nqs9Pg)
 
 Series:
 * [Forms](https://youtu.be/-wvF8OQSMx8)
