@@ -80,7 +80,7 @@
         * [Radicals & Fractional Exponents](https://www.youtube.com/watch?v=sjLFl7Z8W_I)
         * [Basic indeterminant forms, L'hospitals' Rule](https://www.youtube.com/watch?v=thEnl_gCjXA)
     * Introduction
-        * [Summary, watch too get the genaral idea, then watch the rest for more detail](https://www.youtube.com/watch?v=-wvF8OQSMx8)
+        * [***Summary, watch too get the genaral idea, then watch the rest for more detail***](https://www.youtube.com/watch?v=-wvF8OQSMx8)
         * Sequences
             * [Sequence](https://youtu.be/O4MdzWtOJto)
             * [Limit of a Sequence](https://youtu.be/Re1Mh60lXFs)
@@ -92,6 +92,7 @@
                 * [review](https://youtu.be/Gs1Qc8XKtqM)
             * [Harmonic Series](https://youtu.be/5ejmgwXVSqQ)
     * Theroms
+        * [***Summary, watch too get the genaral idea, then watch the rest for more detail***](https://www.youtube.com/watch?v=0YeON4p0ogw)
         * [**Riemann Series Theorem**](https://youtu.be/6eL_6c8Tpao)
         * [Monotonic Series](https://www.youtube.com/watch?v=tHy3TXmZpF0)
         * [Sandwich theorem](https://youtu.be/WvxKwRcHGHg)
