@@ -93,7 +93,7 @@
             * [Harmonic Series](https://youtu.be/5ejmgwXVSqQ)
     * Theroms
         * [***Summary, watch too get the genaral idea, then watch the rest for more detail***](https://www.youtube.com/watch?v=0YeON4p0ogw)
-        * [**Riemann Series Theorem**](https://youtu.be/6eL_6c8Tpao)
+        * [Riemann Series Theorem](https://youtu.be/6eL_6c8Tpao)
         * [Monotonic Series](https://www.youtube.com/watch?v=tHy3TXmZpF0)
         * [Sandwich theorem](https://youtu.be/WvxKwRcHGHg)
     * Convergance/Divergance
