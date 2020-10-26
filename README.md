@@ -79,7 +79,8 @@
         * [Basic limits](https://youtu.be/NmLljBAg82o)
         * [Radicals & Fractional Exponents](https://www.youtube.com/watch?v=sjLFl7Z8W_I)
         * [Basic indeterminant forms, L'hospitals' Rule](https://www.youtube.com/watch?v=thEnl_gCjXA)
-    * Introduction                                                               
+    * Introduction
+        * [Summary, watch too get the genaral idea, then watch the rest for more detail](https://www.youtube.com/watch?v=-wvF8OQSMx8)
         * Sequences
             * [Sequence](https://youtu.be/O4MdzWtOJto)
             * [Limit of a Sequence](https://youtu.be/Re1Mh60lXFs)
@@ -106,7 +107,6 @@
             * **(5)** [Alternating Series Test](https://youtu.be/-lD0skTnqFo)
             * **(6)** + **(7)** [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
     * **Review of Sums & Sequences**
-        * [Summary of all the methods](https://www.youtube.com/watch?v=-wvF8OQSMx8)
         * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
    
 </br>
