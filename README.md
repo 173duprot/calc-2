@@ -25,20 +25,6 @@
 <br/>
 
 ### Test 1 - Intigration (wk 2-5)
-## Concise without explanation (memorize equasions)
-3D shapes:
-<https://youtu.be/j5WKJGBqmiI>
-<https://youtu.be/fE6vmorV-rA>
-<https://youtu.be/DNDAwWIL5FY>
-
-Series:
-<https://youtu.be/-wvF8OQSMx8>
-<https://youtu.be/0YeON4p0ogw>
-<https://youtu.be/FPK6LO1iiXc>
-
-This will give you everything you need too do too do the test, but watch out, it **won't** give you an understanding of the math behind it.
-
-## Full detailed explanation (shows the math behind the equasions)
 * U-Substitutuion:
     * [U-sub Indefinite Intigrals](https://www.youtube.com/watch?v=IAh00vU3FSY)
     * [U-sub Definite Intigrals](https://www.youtube.com/watch?v=tM4RWc9ryx0)
@@ -63,7 +49,20 @@ This will give you everything you need too do too do the test, but watch out, it
 <br/>
 
 ### Test 2 - Advanced Intigration Manupulation (wk 6 - 10)
+#### Concise without explanation (memorize equasions)
+3D shapes:
+<https://youtu.be/j5WKJGBqmiI>
+<https://youtu.be/fE6vmorV-rA>
+<https://youtu.be/DNDAwWIL5FY>
 
+Series:
+<https://youtu.be/-wvF8OQSMx8>
+<https://youtu.be/0YeON4p0ogw>
+<https://youtu.be/FPK6LO1iiXc>
+
+This will give you everything you need too do too do the test, but watch out, it **won't** give you an understanding of the math behind it.
+
+#### Full detailed explanation (shows the math behind the equasions)
 * 3D shapes
     * Volume
         * Disk & Washer Method
