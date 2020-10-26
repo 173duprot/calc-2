@@ -25,7 +25,20 @@
 <br/>
 
 ### Test 1 - Intigration (wk 2-5)
+## Concise without explanation (memorize equasions)
+3D shapes:
+<https://youtu.be/j5WKJGBqmiI>
+<https://youtu.be/fE6vmorV-rA>
+<https://youtu.be/DNDAwWIL5FY>
 
+Series:
+<https://youtu.be/-wvF8OQSMx8>
+<https://youtu.be/0YeON4p0ogw>
+<https://youtu.be/FPK6LO1iiXc>
+
+This will give you everything you need too do too do the test, but watch out, it **won't** give you an understanding of the math behind it.
+
+## Full detailed explanation (shows the math behind the equasions)
 * U-Substitutuion:
     * [U-sub Indefinite Intigrals](https://www.youtube.com/watch?v=IAh00vU3FSY)
     * [U-sub Definite Intigrals](https://www.youtube.com/watch?v=tM4RWc9ryx0)
@@ -73,8 +86,6 @@
         * [Surface Area Examples](https://youtu.be/lQM-0Nqs9Pg)
     
 * **Infinite Sequences and Series**
-    * **Warning: If the videos in this list are too short/consise and you need something a little easier, please check out the OCT playlist that goes into more detail**
-        * [Sequences and Series (OCT ***Playlist***)](https://www.youtube.com/playlist?list=PLHYbQ1FB_Tb22d9OtdGsZ_Zn0nQfDAm15)
     * **Calc 1** Limits at infinity Review (if you forgot how too do limits)
         * [Basic limits](https://youtu.be/NmLljBAg82o)
         * [Radicals & Fractional Exponents](https://www.youtube.com/watch?v=sjLFl7Z8W_I)
