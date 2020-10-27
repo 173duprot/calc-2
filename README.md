@@ -86,7 +86,7 @@ Series:
 This will give you everything you need too do too do the test, but watch out, it **won't** give you an understanding of the math behind it.
 
 #### Full detailed explanation (shows the math behind the equasions)    
-    * **Calc 1** Limits at infinity Review (if you forgot how too do limits)
+   * **Calc 1** Limits at infinity Review (if you forgot how too do limits)
         * [Basic limits](https://youtu.be/NmLljBAg82o)
         * [Radicals & Fractional Exponents](https://www.youtube.com/watch?v=sjLFl7Z8W_I)
         * [Basic indeterminant forms, L'hospitals' Rule](https://www.youtube.com/watch?v=thEnl_gCjXA)
