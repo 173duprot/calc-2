@@ -49,21 +49,6 @@
 <br/>
 
 ### Test 2 - Advanced Intigration Manupulation (wk 6 - 10)
-#### Concise without explanation (memorize equasions)
-3D shapes:
-* [Washer & Disk](https://youtu.be/j5WKJGBqmiI)
-* [Shell](https://youtu.be/fE6vmorV-rA)
-* [Length](https://youtu.be/DNDAwWIL5FY)
-* [Surface area](https://youtu.be/lQM-0Nqs9Pg)
-
-Series:
-* [Forms](https://youtu.be/-wvF8OQSMx8)
-* [Tests](https://youtu.be/0YeON4p0ogw)
-* [Absolute vs Conditional](https://youtu.be/FPK6LO1iiXc)
-
-This will give you everything you need too do too do the test, but watch out, it **won't** give you an understanding of the math behind it.
-
-#### Full detailed explanation (shows the math behind the equasions)
 * 3D shapes
     * Volume
         * Disk & Washer Method
@@ -86,6 +71,21 @@ This will give you everything you need too do too do the test, but watch out, it
         * [Surface Area Examples](https://youtu.be/lQM-0Nqs9Pg)
     
 * **Infinite Sequences and Series**
+#### Concise without explanation (memorize equasions)
+3D shapes:
+* [Washer & Disk](https://youtu.be/j5WKJGBqmiI)
+* [Shell](https://youtu.be/fE6vmorV-rA)
+* [Length](https://youtu.be/DNDAwWIL5FY)
+* [Surface area](https://youtu.be/lQM-0Nqs9Pg)
+
+Series:
+* [Forms](https://youtu.be/-wvF8OQSMx8)
+* [Tests](https://youtu.be/0YeON4p0ogw)
+* [Absolute vs Conditional](https://youtu.be/FPK6LO1iiXc)
+
+This will give you everything you need too do too do the test, but watch out, it **won't** give you an understanding of the math behind it.
+
+#### Full detailed explanation (shows the math behind the equasions)    
     * **Calc 1** Limits at infinity Review (if you forgot how too do limits)
         * [Basic limits](https://youtu.be/NmLljBAg82o)
         * [Radicals & Fractional Exponents](https://www.youtube.com/watch?v=sjLFl7Z8W_I)
