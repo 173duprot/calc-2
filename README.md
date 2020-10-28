@@ -60,8 +60,6 @@ Series:
 * [Forms](https://youtu.be/-wvF8OQSMx8)
 * [Tests](https://youtu.be/0YeON4p0ogw)
 * [Absolute vs Conditional](https://youtu.be/FPK6LO1iiXc)
-* [Normal Comparison Test](https://www.youtube.com/watch?v=LBxYQ0TJxYM)
-* [Limit Comparison Test](https://www.youtube.com/watch?v=FPK6LO1iiXc)
 
 This will give you everything you need too do too do the test, but watch out, it **won't** give you an understanding of the math behind it.
 
