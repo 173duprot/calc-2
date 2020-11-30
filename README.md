@@ -3,7 +3,7 @@
 ###### This is a collection of videos covering the content of the entire class.
 ###### Using these videos its possible too learn everything you need too know without needing too come too class.
 
-##### [Concise Calc 2 notes (these are way easier too understand than the prof's)](https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)
+#### [Concise Calc 2 notes (these are way easier too understand than the prof's)](https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)
 
 <br/>
 
