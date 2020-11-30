@@ -180,7 +180,8 @@ Good Luck!
 
 ##### Reccomended:
 
-* #### [Concise Calc 2 notes (these are way easier too understand than the prof's)](https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)
+* #### [Concise Calc 2 notes](https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)
+    * ``These are way easier too understand than the prof's, everything you need too know in under a page``
 
 * [***The abstract of calculus by 3blue1brown***](https://youtu.be/EGni2-m5yxM)
     * ``This goes over the abstaract of all of calculus in an incredibly intuitive way, highly reccomended if you want too get a better understanding of what calculus is.``
