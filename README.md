@@ -3,8 +3,6 @@
 ###### This is a collection of videos covering the content of the entire class.
 ###### Using these videos its possible too learn everything you need too know without needing too come too class.
 
-#### [Concise Calc 2 notes (these are way easier too understand than the prof's)](https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)
-
 <br/>
 
 ### Review of the Basics (wk 1)
@@ -181,6 +179,9 @@ This will give you everything you need too do too do the test, but watch out, it
 Good Luck!
 
 ##### Reccomended:
+
+* #### [Concise Calc 2 notes (these are way easier too understand than the prof's)](https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)
+
 * [***The abstract of calculus by 3blue1brown***](https://youtu.be/EGni2-m5yxM)
     * ``This goes over the abstaract of all of calculus in an incredibly intuitive way, highly reccomended if you want too get a better understanding of what calculus is.``
 
