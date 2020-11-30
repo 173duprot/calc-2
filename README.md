@@ -126,8 +126,7 @@ This will give you everything you need too do too do the test, but watch out, it
 
 * Series
     * Power Series
-        * [Introduction](https://www.youtube.com/watch?v=XHoRBh4hQNU)
-	    * [Finding The Radius & Interval of Convergence](https://www.youtube.com/watch?v=OxVBT83x8oc)
+        * [Introduction](https://youtu.be/OxVBT83x8oc)
         * Repersentation of functions as a Power Series
             * [Basics](https://youtu.be/54yldObvvwY)
             * Tactics
