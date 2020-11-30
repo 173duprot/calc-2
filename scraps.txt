@@ -1,0 +1,59 @@
+This will give you everything you need too do too do the test, but watch out, it **won't** give you an understanding of the math behind it.
+
+#### Full detailed explanation (shows the math behind the equasions)
+* 3D shapes
+    * Volume
+        * Disk & Washer Method
+            * Disk Method Introduction
+                * [Around y](https://www.youtube.com/watch?v=btGaOTXxXs8)
+                * [Around x](https://www.youtube.com/watch?v=43AS7bPUORc)
+            * Washer Method Introduction
+                * [yep](https://www.youtube.com/watch?v=vhMl755vR5Q)
+        * Shell Method
+            * [Around x](https://www.youtube.com/watch?v=R-Qu3QWOEiA)
+            * [Around y](https://www.youtube.com/watch?v=6Ozz3J-LRrY)
+        * [***blackpenredpen video, HIGHLY RECCOMENDED***](https://www.youtube.com/watch?v=ydyXf01WNYA) **<< sums up everything**
+
+    * Arc Length
+        * [**Finding the Arc Length formula**](https://www.youtube.com/watch?v=pH-Omj-cMok) **<< yes you need too know how to do this in this class**
+        * [Arc Length Examples](https://youtu.be/DNDAwWIL5FY)
+
+    * Surface Area
+        * [**Finding the Surface Area formula**](https://youtu.be/zUzan1Ma9nE) **<< yes you need too know how to do this in this class**
+        * [Surface Area Examples](https://youtu.be/lQM-0Nqs9Pg)
+
+* **Infinite Sequences and Series**
+    * **Calc 1** Limits at infinity Review (if you forgot how too do limits)
+        * [Basic limits](https://youtu.be/NmLljBAg82o)
+        * [Radicals & Fractional Exponents](https://www.youtube.com/watch?v=sjLFl7Z8W_I)
+        * [Basic indeterminant forms, L'hospitals' Rule](https://www.youtube.com/watch?v=thEnl_gCjXA)
+    * Introduction
+        * [***Summary, watch too get the genaral idea, then watch the rest for more detail***](https://www.youtube.com/watch?v=-wvF8OQSMx8)
+        * Sequences
+            * [Sequence](https://youtu.be/O4MdzWtOJto)
+            * [Limit of a Sequence](https://youtu.be/Re1Mh60lXFs)
+        * Series
+            * [Series](https://youtu.be/wtlt1AU5bEI)
+            * Geometric Series
+                * [Intro](https://www.youtube.com/watch?v=-5kIBPR2Npk)
+                * [Sum of Infinite Geometric series](https://youtu.be/jxRqRLMliPc)
+                * [review](https://youtu.be/Gs1Qc8XKtqM)
+            * [Harmonic Series](https://youtu.be/5ejmgwXVSqQ)
+    * Theroms
+        * [***Summary, watch too get the genaral idea, then watch the rest for more detail***](https://www.youtube.com/watch?v=0YeON4p0ogw)
+        * [Riemann Series Theorem](https://youtu.be/6eL_6c8Tpao)
+        * [Monotonic Series](https://www.youtube.com/watch?v=tHy3TXmZpF0)
+        * [Sandwich theorem](https://youtu.be/WvxKwRcHGHg)
+    * Convergance/Divergance
+        * **Types of Convergance**
+            * [***Absolute vs Conditional***](https://www.youtube.com/watch?v=FPK6LO1iiXc)
+        * Convergance/Divergent **tests** for SERIES **<- 7 tests too memorize, this is the hard part**
+            * **(1)** [P test](https://www.youtube.com/watch?v=rwLkrGrugOk)
+            * **(2)** [Integral Test](https://youtu.be/JHTS3WMU7aA)
+            * Comparison Test
+                * **(3)** [Comparison Test](https://youtu.be/GBBg3ntsUDI)
+                * **(4)** [Limit Comparison Test](https://youtu.be/7xhd8kdQFic)
+            * **(5)** [Alternating Series Test](https://youtu.be/-lD0skTnqFo)
+            * **(6)** + **(7)** [Ratio + Root Test](https://youtu.be/we9xfbR8SwQ)
+    * **Review of Sums & Sequences**
+        * [**Choosing Which Convergence Test to Apply**](https://youtu.be/0wefqjpQyKM)
