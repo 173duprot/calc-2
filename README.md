@@ -81,6 +81,7 @@ Series:
 * Weird line shit
     * Parametric Curves
         * [Intro](https://www.youtube.com/watch?v=97pe-QlSGqA)
+        * [Cartisian Equasion](https://www.youtube.com/watch?v=m39m8FdyE0g)
         * d/dx
             * [1st](https://youtu.be/kf2dZWqLnqE) - [2nd](https://youtu.be/93IdxRdd5eg) - [3rd](https://youtu.be/CZKl9C0_gMw)
         * Tangent
