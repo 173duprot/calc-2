@@ -83,9 +83,9 @@ Series:
         * [Intro](https://www.youtube.com/watch?v=97pe-QlSGqA)
         * [Cartisian Equasions](https://www.youtube.com/watch?v=m39m8FdyE0g)
         * [d/dx](https://youtu.be/AXasQLqazWU)
-        * Tangent
-            * [Tangent](https://www.youtube.com/watch?v=vcZPjuG8GrM)
-            * [Horizantal & Vertical](https://www.youtube.com/watch?v=jD2RIjbv1Us)
+        * [Tangent (1st derrivative)](https://www.youtube.com/watch?v=vcZPjuG8GrM)
+        * [Concavity (2nd derrivative)](https://youtu.be/93IdxRdd5eg)
+        * []()
         * [Area](https://www.youtube.com/watch?v=riEx7TcLfzk)
         * [Arc Legth](https://www.youtube.com/watch?v=X8N21DrWmjU)
         * 3D
